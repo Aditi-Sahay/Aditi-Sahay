@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Aditi-Sahay
+- 17 year old trying desparately to stay alive 
+- I’m interested in learning anything to be honest
+- I’m currently learning JAVA and Python
+- I’m looking to collaborate on the topic of Quantum Computers
+- To reach me just shoot a mail to aditi.r.sahay@gmail.com
+- Pronouns: She/Her
