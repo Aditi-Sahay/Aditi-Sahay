@@ -27,7 +27,7 @@
 
 I'm an aspiring Computer Science student on a gap year, interested in building useful products and understanding the systems behind them.
 
-My interests span software engineering, artificial intelligence, financial markets, equity research, and analytical problem-solving. I'm developing my technical foundations through independent projects while preparing for undergraduate studies.
+My interests span software engineering, artificial intelligence, financial markets, equity research and analytical problem-solving. I'm developing my technical foundations through independent projects while preparing for undergraduate studies.
 
 I value thoughtful execution, continuous learning, and turning ideas into working products.
 
@@ -59,59 +59,39 @@ An independent computational linguistics study investigating differences in ling
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Java-Currently_Used-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-Currently_Used-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-Currently_Used-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
+
+### Frameworks & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Rust-Roadmap-CE422B?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/REST_APIs-444444?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge" alt="Claude Code" />
 </p>
 
-### Technologies & Tools
-
-**Development**
-
-<p>
-  <img src="https://img.shields.io/badge/React-Used_in_Project-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Expo_Go-Used_in_Project-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo Go" />
-  <img src="https://img.shields.io/badge/REST_APIs-Exploring-333333?style=flat-square" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Node.js-Roadmap-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js-Roadmap-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Roadmap-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-**Tools & Infrastructure**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-Workflow-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-Deployment-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Docker-Roadmap-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Figma-Design-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-**AI & Development Workflows**
-
-<p>
-  <img src="https://img.shields.io/badge/RAG-Exploring-444444?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/AI_Agents-Exploring-444444?style=flat-square" alt="AI agents" />
-  <img src="https://img.shields.io/badge/Cursor-Tooling-111111?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Codex-Tooling-111111?style=flat-square" alt="Codex" />
-  <img src="https://img.shields.io/badge/Claude_Code-Tooling-D97757?style=flat-square" alt="Claude Code" />
-</p>
-
-*Technologies marked as roadmap or exploring represent learning goals, not established proficiency.*
 
 ---
 
 ### Beyond Code
 
-I'm also interested in financial markets, equity research, and the quantitative side of decision-making. Over time, I want to deepen my programming, statistics, and mathematical foundations to explore more technical roles across finance and technology.
+I'm also interested in financial markets, equity research and the quantitative side of decision-making. Over time, I want to deepen my programming, statistics and mathematical foundations to explore more technical roles across finance and technology.
 
 ### Connect
 
@@ -127,6 +107,3 @@ I'm also interested in financial markets, equity research, and the quantitative 
   </a>
 </p>
 
-<p align="center">
-  <sub>Curious by nature. Building with intention.</sub>
-</p>
