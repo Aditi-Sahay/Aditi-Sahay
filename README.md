@@ -6,18 +6,18 @@
 <h1 align="center">Aditi Sahay</h1>
 
 <p align="center">
-  <strong>Building at the intersection of technology, AI & finance.</strong>
+  <strong>Building at the intersection of technology, AI &amp; finance.</strong>
 </p>
 
 <p align="center">
   <a href="https://aditisahay.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/aditi-sahay/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:aditi.r.sahay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -95,15 +95,16 @@ I'm also interested in financial markets, equity research and the quantitative s
 
 ### Connect
 
-<p>
+<p align="center">
+<a href="https://www.instagram.com/aditisahayy/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
   <a href="https://www.linkedin.com/in/aditi-sahay/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditi_Sahay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/aditisahayy/">
-    <img src="https://img.shields.io/badge/Instagram-aditisahayy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:aditi.r.sahay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's_Connect-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
